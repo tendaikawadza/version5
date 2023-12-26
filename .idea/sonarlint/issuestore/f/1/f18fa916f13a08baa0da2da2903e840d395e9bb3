@@ -1,0 +1,6 @@
+
+_
+java:S1192V"IDefine a constant instead of duplicating this literal "quantity" 3 times.(ª‚À™
+X
+java:S6813*"BRemove this field injection and use constructor injection instead.(êæÄÞ
+V	java:S125{"<This block of commented-out lines of code should be removed.(ÆÉ‘Äúÿÿÿÿ

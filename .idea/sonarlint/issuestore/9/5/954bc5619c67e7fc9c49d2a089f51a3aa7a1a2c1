@@ -1,0 +1,18 @@
+
+]
+java:S11922"GDefine a constant instead of duplicating this literal "Origin" 3 times.(Ž¡±á
+\
+java:S11923"GDefine a constant instead of duplicating this literal "Accept" 3 times.(ûï˜m
+r
+java:S11922"\Define a constant instead of duplicating this literal "Access-Control-Allow-Origin" 3 times.(Ž¡±á
+V	java:S1251"<This block of commented-out lines of code should be removed.(ù“¾¦ùÿÿÿÿ
+\
+java:S1128"FRemove this unused import 'org.springframework.core.annotation.Order'.(ÖŽ¨æ
+9
+java:S1128"Remove this duplicated import.(¯ìÙÿÿÿÿÿ
+4
+java:S1128"Remove this duplicated import.(Ë”ÖÏ
+4
+java:S1128"Remove this duplicated import.(‚î‰Þ
+l
+java:S1128"VRemove this unused import 'org.springframework.web.multipart.support.MultipartFilter'.(ÛïëÌ
